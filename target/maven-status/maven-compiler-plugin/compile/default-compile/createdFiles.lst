@@ -1,8 +1,0 @@
-com/yibin/pojo/Brand.class
-com/yibin/service/BrandService.class
-com/yibin/util/SqlSessionFactoryUtils.class
-com/yibin/mapper/BrandMapper.class
-com/yibin/service/impl/BrandServiceImpl.class
-com/yibin/web/servlet/BaseServlet.class
-com/yibin/pojo/PageBean.class
-com/yibin/web/servlet/BrandServlet.class
