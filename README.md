@@ -1,4 +1,4 @@
-# RetailRadar Project README
+# Retail Radar Project README
 
 ## Introduction
 Welcome to the RetailRadar project! This application is a self-developed e-commerce simulator designed to provide a realistic and interactive experience in managing an online retail store. It features comprehensive CRUD (Create, Read, Update, Delete) operations and is an excellent tool for those looking to understand the intricacies of e-commerce platforms.
